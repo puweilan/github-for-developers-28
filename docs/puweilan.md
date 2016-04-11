@@ -1,0 +1,5 @@
+- Name: Elsie
+- From: China
+- A favorite food: Pizza
+- A hobby: Movie
+- A color: Red
